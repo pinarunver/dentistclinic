@@ -1,0 +1,6 @@
+C:\Users\onerp\OneDrive\Masaüstü\dentistclinic\Dentistclinic\Dentistclinic.Entity\bin\x64\Debug\Dentistclinic.Entity.dll
+C:\Users\onerp\OneDrive\Masaüstü\dentistclinic\Dentistclinic\Dentistclinic.Entity\bin\x64\Debug\Dentistclinic.Entity.pdb
+C:\Users\onerp\OneDrive\Masaüstü\dentistclinic\Dentistclinic\Dentistclinic.Entity\obj\x64\Debug\Dentistclinic.Entity.csproj.AssemblyReference.cache
+C:\Users\onerp\OneDrive\Masaüstü\dentistclinic\Dentistclinic\Dentistclinic.Entity\obj\x64\Debug\Dentistclinic.Entity.csproj.CoreCompileInputs.cache
+C:\Users\onerp\OneDrive\Masaüstü\dentistclinic\Dentistclinic\Dentistclinic.Entity\obj\x64\Debug\Dentistclinic.Entity.dll
+C:\Users\onerp\OneDrive\Masaüstü\dentistclinic\Dentistclinic\Dentistclinic.Entity\obj\x64\Debug\Dentistclinic.Entity.pdb

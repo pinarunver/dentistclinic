@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DBC298FB-DEA3-491B-B722-5730CF1DB911}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Dentistclinicc.PL</RootNamespace>
+    <AssemblyName>Dentistclinicc.PL</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
+      <HintPath>..\packages\BouncyCastle.Cryptography.2.4.0\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.4, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.4\lib\net461\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tulpep.NotificationWindow, Version=1.1.38.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Tulpep.NotificationWindow.1.1.38\lib\net40\Tulpep.NotificationWindow.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph, Version=5.1.7.430, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZedGraph.5.1.7\lib\net35-Client\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DoktorRandevuDurumPL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoktorRandevuDurumPL.Designer.cs">
+      <DependentUpon>DoktorRandevuDurumPL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GirisPL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GirisPL.Designer.cs">
+      <DependentUpon>GirisPL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HastaAnaSayfaPL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HastaAnaSayfaPL.Designer.cs">
+      <DependentUpon>HastaAnaSayfaPL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HastaGirisPL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HastaGirisPL.Designer.cs">
+      <DependentUpon>HastaGirisPL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HastaPL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HastaPL.Designer.cs">
+      <DependentUpon>HastaPL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HastaRandevuTabloPL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HastaRandevuTabloPL.Designer.cs">
+      <DependentUpon>HastaRandevuTabloPL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RandevuAlPL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlPL.Designer.cs">
+      <DependentUpon>RandevuAlPL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YoneticiAnaSayfaPL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoneticiAnaSayfaPL.Designer.cs">
+      <DependentUpon>YoneticiAnaSayfaPL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YoneticiGirisiPL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoneticiGirisiPL.Designer.cs">
+      <DependentUpon>YoneticiGirisiPL.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DoktorRandevuDurumPL.resx">
+      <DependentUpon>DoktorRandevuDurumPL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GirisPL.resx">
+      <DependentUpon>GirisPL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HastaAnaSayfaPL.resx">
+      <DependentUpon>HastaAnaSayfaPL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HastaGirisPL.resx">
+      <DependentUpon>HastaGirisPL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HastaPL.resx">
+      <DependentUpon>HastaPL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HastaRandevuTabloPL.resx">
+      <DependentUpon>HastaRandevuTabloPL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="RandevuAlPL.resx">
+      <DependentUpon>RandevuAlPL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoneticiAnaSayfaPL.resx">
+      <DependentUpon>YoneticiAnaSayfaPL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoneticiGirisiPL.resx">
+      <DependentUpon>YoneticiGirisiPL.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Dentistclinic.Entity\Dentistclinic.Entity.csproj">
+      <Project>{20c4ba62-27e2-40ec-a673-e28fab663f6f}</Project>
+      <Name>Dentistclinic.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dentistclinicc.BLL\Dentistclinicc.BLL.csproj">
+      <Project>{34c82a83-8b00-484f-a0dc-bdf107e4f229}</Project>
+      <Name>Dentistclinicc.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dentistclinicc.DAL\Dentistclinicc.DAL.csproj">
+      <Project>{2faefa45-be17-4d74-9f53-73cb0edc87e1}</Project>
+      <Name>Dentistclinicc.DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dişaccess1.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="License-LGPL.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,451 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dentistclinic\\Dentistclinic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAEFA45-BE17-4D74-9F53-73CB0EDC87E1}|Dentistclinicc.DAL\\Dentistclinicc.DAL.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinicc.dal\\doktorrandevudurumdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAEFA45-BE17-4D74-9F53-73CB0EDC87E1}|Dentistclinicc.DAL\\Dentistclinicc.DAL.csproj|solutionrelative:dentistclinicc.dal\\doktorrandevudurumdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC298FB-DEA3-491B-B722-5730CF1DB911}|Dentistclinicc.PL\\Dentistclinicc.PL.csproj|d:\\dentistclinic\\dentistclinic\\dentistclinicc.pl\\hastaanasayfapl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBC298FB-DEA3-491B-B722-5730CF1DB911}|Dentistclinicc.PL\\Dentistclinicc.PL.csproj|solutionrelative:dentistclinicc.pl\\hastaanasayfapl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC298FB-DEA3-491B-B722-5730CF1DB911}|Dentistclinicc.PL\\Dentistclinicc.PL.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinicc.pl\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DBC298FB-DEA3-491B-B722-5730CF1DB911}|Dentistclinicc.PL\\Dentistclinicc.PL.csproj|solutionrelative:dentistclinicc.pl\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAEFA45-BE17-4D74-9F53-73CB0EDC87E1}|Dentistclinicc.DAL\\Dentistclinicc.DAL.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinicc.dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2FAEFA45-BE17-4D74-9F53-73CB0EDC87E1}|Dentistclinicc.DAL\\Dentistclinicc.DAL.csproj|solutionrelative:dentistclinicc.dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAEFA45-BE17-4D74-9F53-73CB0EDC87E1}|Dentistclinicc.DAL\\Dentistclinicc.DAL.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinicc.dal\\accessconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAEFA45-BE17-4D74-9F53-73CB0EDC87E1}|Dentistclinicc.DAL\\Dentistclinicc.DAL.csproj|solutionrelative:dentistclinicc.dal\\accessconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC298FB-DEA3-491B-B722-5730CF1DB911}|Dentistclinicc.PL\\Dentistclinicc.PL.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinicc.pl\\doktorrandevudurumpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBC298FB-DEA3-491B-B722-5730CF1DB911}|Dentistclinicc.PL\\Dentistclinicc.PL.csproj|solutionrelative:dentistclinicc.pl\\doktorrandevudurumpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC298FB-DEA3-491B-B722-5730CF1DB911}|Dentistclinicc.PL\\Dentistclinicc.PL.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinicc.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC298FB-DEA3-491B-B722-5730CF1DB911}|Dentistclinicc.PL\\Dentistclinicc.PL.csproj|solutionrelative:dentistclinicc.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAEFA45-BE17-4D74-9F53-73CB0EDC87E1}|Dentistclinicc.DAL\\Dentistclinicc.DAL.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinicc.dal\\di\u015Faccess1dataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{2FAEFA45-BE17-4D74-9F53-73CB0EDC87E1}|Dentistclinicc.DAL\\Dentistclinicc.DAL.csproj|solutionrelative:dentistclinicc.dal\\di\u015Faccess1dataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC298FB-DEA3-491B-B722-5730CF1DB911}|Dentistclinicc.PL\\Dentistclinicc.PL.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinicc.pl\\yoneticianasayfapl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC298FB-DEA3-491B-B722-5730CF1DB911}|Dentistclinicc.PL\\Dentistclinicc.PL.csproj|solutionrelative:dentistclinicc.pl\\yoneticianasayfapl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC298FB-DEA3-491B-B722-5730CF1DB911}|Dentistclinicc.PL\\Dentistclinicc.PL.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinicc.pl\\yoneticianasayfapl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBC298FB-DEA3-491B-B722-5730CF1DB911}|Dentistclinicc.PL\\Dentistclinicc.PL.csproj|solutionrelative:dentistclinicc.pl\\yoneticianasayfapl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC298FB-DEA3-491B-B722-5730CF1DB911}|Dentistclinicc.PL\\Dentistclinicc.PL.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinicc.pl\\yoneticigirisipl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC298FB-DEA3-491B-B722-5730CF1DB911}|Dentistclinicc.PL\\Dentistclinicc.PL.csproj|solutionrelative:dentistclinicc.pl\\yoneticigirisipl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC298FB-DEA3-491B-B722-5730CF1DB911}|Dentistclinicc.PL\\Dentistclinicc.PL.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinicc.pl\\yoneticigirisipl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBC298FB-DEA3-491B-B722-5730CF1DB911}|Dentistclinicc.PL\\Dentistclinicc.PL.csproj|solutionrelative:dentistclinicc.pl\\yoneticigirisipl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C82A83-8B00-484F-A0DC-BDF107E4F229}|Dentistclinicc.BLL\\Dentistclinicc.BLL.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinicc.bll\\hastaanasayfabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C82A83-8B00-484F-A0DC-BDF107E4F229}|Dentistclinicc.BLL\\Dentistclinicc.BLL.csproj|solutionrelative:dentistclinicc.bll\\hastaanasayfabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C82A83-8B00-484F-A0DC-BDF107E4F229}|Dentistclinicc.BLL\\Dentistclinicc.BLL.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinicc.bll\\hastabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C82A83-8B00-484F-A0DC-BDF107E4F229}|Dentistclinicc.BLL\\Dentistclinicc.BLL.csproj|solutionrelative:dentistclinicc.bll\\hastabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C82A83-8B00-484F-A0DC-BDF107E4F229}|Dentistclinicc.BLL\\Dentistclinicc.BLL.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinicc.bll\\randevualbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C82A83-8B00-484F-A0DC-BDF107E4F229}|Dentistclinicc.BLL\\Dentistclinicc.BLL.csproj|solutionrelative:dentistclinicc.bll\\randevualbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C82A83-8B00-484F-A0DC-BDF107E4F229}|Dentistclinicc.BLL\\Dentistclinicc.BLL.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinicc.bll\\doktorrandevudurumbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C82A83-8B00-484F-A0DC-BDF107E4F229}|Dentistclinicc.BLL\\Dentistclinicc.BLL.csproj|solutionrelative:dentistclinicc.bll\\doktorrandevudurumbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAEFA45-BE17-4D74-9F53-73CB0EDC87E1}|Dentistclinicc.DAL\\Dentistclinicc.DAL.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinicc.dal\\randevualdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAEFA45-BE17-4D74-9F53-73CB0EDC87E1}|Dentistclinicc.DAL\\Dentistclinicc.DAL.csproj|solutionrelative:dentistclinicc.dal\\randevualdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAEFA45-BE17-4D74-9F53-73CB0EDC87E1}|Dentistclinicc.DAL\\Dentistclinicc.DAL.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinicc.dal\\hastarandevutablodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAEFA45-BE17-4D74-9F53-73CB0EDC87E1}|Dentistclinicc.DAL\\Dentistclinicc.DAL.csproj|solutionrelative:dentistclinicc.dal\\hastarandevutablodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAEFA45-BE17-4D74-9F53-73CB0EDC87E1}|Dentistclinicc.DAL\\Dentistclinicc.DAL.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinicc.dal\\hastagirisdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAEFA45-BE17-4D74-9F53-73CB0EDC87E1}|Dentistclinicc.DAL\\Dentistclinicc.DAL.csproj|solutionrelative:dentistclinicc.dal\\hastagirisdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC298FB-DEA3-491B-B722-5730CF1DB911}|Dentistclinicc.PL\\Dentistclinicc.PL.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinicc.pl\\hastapl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBC298FB-DEA3-491B-B722-5730CF1DB911}|Dentistclinicc.PL\\Dentistclinicc.PL.csproj|solutionrelative:dentistclinicc.pl\\hastapl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC298FB-DEA3-491B-B722-5730CF1DB911}|Dentistclinicc.PL\\Dentistclinicc.PL.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinicc.pl\\hastagirispl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBC298FB-DEA3-491B-B722-5730CF1DB911}|Dentistclinicc.PL\\Dentistclinicc.PL.csproj|solutionrelative:dentistclinicc.pl\\hastagirispl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAEFA45-BE17-4D74-9F53-73CB0EDC87E1}|Dentistclinicc.DAL\\Dentistclinicc.DAL.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinicc.dal\\hastadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAEFA45-BE17-4D74-9F53-73CB0EDC87E1}|Dentistclinicc.DAL\\Dentistclinicc.DAL.csproj|solutionrelative:dentistclinicc.dal\\hastadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAEFA45-BE17-4D74-9F53-73CB0EDC87E1}|Dentistclinicc.DAL\\Dentistclinicc.DAL.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinicc.dal\\hastaanasayfadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAEFA45-BE17-4D74-9F53-73CB0EDC87E1}|Dentistclinicc.DAL\\Dentistclinicc.DAL.csproj|solutionrelative:dentistclinicc.dal\\hastaanasayfadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAEFA45-BE17-4D74-9F53-73CB0EDC87E1}|Dentistclinicc.DAL\\Dentistclinicc.DAL.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinicc.dal\\dentalclinicdataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{2FAEFA45-BE17-4D74-9F53-73CB0EDC87E1}|Dentistclinicc.DAL\\Dentistclinicc.DAL.csproj|solutionrelative:dentistclinicc.dal\\dentalclinicdataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4BA62-27E2-40EC-A673-E28FAB663F6F}|Dentistclinic.Entity\\Dentistclinic.Entity.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinic.entity\\randevual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C4BA62-27E2-40EC-A673-E28FAB663F6F}|Dentistclinic.Entity\\Dentistclinic.Entity.csproj|solutionrelative:dentistclinic.entity\\randevual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4BA62-27E2-40EC-A673-E28FAB663F6F}|Dentistclinic.Entity\\Dentistclinic.Entity.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinic.entity\\hastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C4BA62-27E2-40EC-A673-E28FAB663F6F}|Dentistclinic.Entity\\Dentistclinic.Entity.csproj|solutionrelative:dentistclinic.entity\\hastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4BA62-27E2-40EC-A673-E28FAB663F6F}|Dentistclinic.Entity\\Dentistclinic.Entity.csproj|D:\\dentistclinic\\Dentistclinic\\dentistclinic.entity\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C4BA62-27E2-40EC-A673-E28FAB663F6F}|Dentistclinic.Entity\\Dentistclinic.Entity.csproj|solutionrelative:dentistclinic.entity\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.PL\\App.config",
+              "RelativeDocumentMoniker": "Dentistclinicc.PL\\App.config",
+              "ToolTip": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.PL\\App.config",
+              "RelativeToolTip": "Dentistclinicc.PL\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-24T03:53:43.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoktorRandevuDurumPL.cs [Design]",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.PL\\DoktorRandevuDurumPL.cs",
+              "RelativeDocumentMoniker": "Dentistclinicc.PL\\DoktorRandevuDurumPL.cs",
+              "ToolTip": "C:\\Users\\onerp\\OneDrive\\Masa\u00FCst\u00FC\\dentistclinic\\Dentistclinic\\Dentistclinicc.PL\\DoktorRandevuDurumPL.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-24T03:53:43.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "accessconnection.cs",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.DAL\\accessconnection.cs",
+              "RelativeDocumentMoniker": "Dentistclinicc.DAL\\accessconnection.cs",
+              "ToolTip": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.DAL\\accessconnection.cs",
+              "RelativeToolTip": "Dentistclinicc.DAL\\accessconnection.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:53:43.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HastaAnaSayfaPL.cs [Design]",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.PL\\HastaAnaSayfaPL.cs",
+              "RelativeDocumentMoniker": "Dentistclinicc.PL\\HastaAnaSayfaPL.cs",
+              "ToolTip": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.PL\\HastaAnaSayfaPL.cs [Design]",
+              "RelativeToolTip": "Dentistclinicc.PL\\HastaAnaSayfaPL.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:53:44.078Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.PL\\Program.cs",
+              "RelativeDocumentMoniker": "Dentistclinicc.PL\\Program.cs",
+              "ToolTip": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.PL\\Program.cs",
+              "RelativeToolTip": "Dentistclinicc.PL\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:53:44.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "di\u015Faccess1DataSet.xsd",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.DAL\\di\u015Faccess1DataSet.xsd",
+              "RelativeDocumentMoniker": "Dentistclinicc.DAL\\di\u015Faccess1DataSet.xsd",
+              "ToolTip": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.DAL\\di\u015Faccess1DataSet.xsd",
+              "RelativeToolTip": "Dentistclinicc.DAL\\di\u015Faccess1DataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000835|",
+              "WhenOpened": "2024-12-24T03:53:44.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "YoneticiGirisiPL.cs [Design]",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.PL\\YoneticiGirisiPL.cs",
+              "RelativeDocumentMoniker": "Dentistclinicc.PL\\YoneticiGirisiPL.cs",
+              "ToolTip": "C:\\Users\\onerp\\OneDrive\\Masa\u00FCst\u00FC\\dentistclinic\\Dentistclinic\\Dentistclinicc.PL\\YoneticiGirisiPL.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-24T03:53:44.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoktorRandevuDurumDAL.cs",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.DAL\\DoktorRandevuDurumDAL.cs",
+              "RelativeDocumentMoniker": "Dentistclinicc.DAL\\DoktorRandevuDurumDAL.cs",
+              "ToolTip": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.DAL\\DoktorRandevuDurumDAL.cs",
+              "RelativeToolTip": "Dentistclinicc.DAL\\DoktorRandevuDurumDAL.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAApwBYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:53:44.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.config",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.DAL\\app.config",
+              "RelativeDocumentMoniker": "Dentistclinicc.DAL\\app.config",
+              "ToolTip": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.DAL\\app.config",
+              "RelativeToolTip": "Dentistclinicc.DAL\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-24T03:53:43.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HastaAnaSayfaBLL.cs",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.BLL\\HastaAnaSayfaBLL.cs",
+              "RelativeDocumentMoniker": "Dentistclinicc.BLL\\HastaAnaSayfaBLL.cs",
+              "ToolTip": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.BLL\\HastaAnaSayfaBLL.cs",
+              "RelativeToolTip": "Dentistclinicc.BLL\\HastaAnaSayfaBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:53:44.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "YoneticiGirisiPL.cs",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.PL\\YoneticiGirisiPL.cs",
+              "RelativeDocumentMoniker": "Dentistclinicc.PL\\YoneticiGirisiPL.cs",
+              "ToolTip": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.PL\\YoneticiGirisiPL.cs",
+              "RelativeToolTip": "Dentistclinicc.PL\\YoneticiGirisiPL.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-24T03:53:44.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "YoneticiAnaSayfaPL.cs [Design]",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.PL\\YoneticiAnaSayfaPL.cs",
+              "RelativeDocumentMoniker": "Dentistclinicc.PL\\YoneticiAnaSayfaPL.cs",
+              "ToolTip": "C:\\Users\\onerp\\OneDrive\\Masa\u00FCst\u00FC\\dentistclinic\\Dentistclinic\\Dentistclinicc.PL\\YoneticiAnaSayfaPL.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-24T03:53:44.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "YoneticiAnaSayfaPL.cs",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.PL\\YoneticiAnaSayfaPL.cs",
+              "RelativeDocumentMoniker": "Dentistclinicc.PL\\YoneticiAnaSayfaPL.cs",
+              "ToolTip": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.PL\\YoneticiAnaSayfaPL.cs",
+              "RelativeToolTip": "Dentistclinicc.PL\\YoneticiAnaSayfaPL.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-24T03:53:44.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HastaBLL.cs",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.BLL\\HastaBLL.cs",
+              "RelativeDocumentMoniker": "Dentistclinicc.BLL\\HastaBLL.cs",
+              "ToolTip": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.BLL\\HastaBLL.cs",
+              "RelativeToolTip": "Dentistclinicc.BLL\\HastaBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:53:44.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RandevuAlBLL.cs",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.BLL\\RandevuAlBLL.cs",
+              "RelativeDocumentMoniker": "Dentistclinicc.BLL\\RandevuAlBLL.cs",
+              "ToolTip": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.BLL\\RandevuAlBLL.cs",
+              "RelativeToolTip": "Dentistclinicc.BLL\\RandevuAlBLL.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:53:44.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DoktorRandevuDurumBLL.cs",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.BLL\\DoktorRandevuDurumBLL.cs",
+              "RelativeDocumentMoniker": "Dentistclinicc.BLL\\DoktorRandevuDurumBLL.cs",
+              "ToolTip": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.BLL\\DoktorRandevuDurumBLL.cs",
+              "RelativeToolTip": "Dentistclinicc.BLL\\DoktorRandevuDurumBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:53:44.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RandevuAlDAL.cs",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.DAL\\RandevuAlDAL.cs",
+              "RelativeDocumentMoniker": "Dentistclinicc.DAL\\RandevuAlDAL.cs",
+              "ToolTip": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.DAL\\RandevuAlDAL.cs",
+              "RelativeToolTip": "Dentistclinicc.DAL\\RandevuAlDAL.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:53:44.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HastaRandevuTabloDAL.cs",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.DAL\\HastaRandevuTabloDAL.cs",
+              "RelativeDocumentMoniker": "Dentistclinicc.DAL\\HastaRandevuTabloDAL.cs",
+              "ToolTip": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.DAL\\HastaRandevuTabloDAL.cs",
+              "RelativeToolTip": "Dentistclinicc.DAL\\HastaRandevuTabloDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:53:44.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HastaGirisPL.cs [Design]",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.PL\\HastaGirisPL.cs",
+              "RelativeDocumentMoniker": "Dentistclinicc.PL\\HastaGirisPL.cs",
+              "ToolTip": "C:\\Users\\onerp\\OneDrive\\Masa\u00FCst\u00FC\\dentistclinic\\Dentistclinic\\Dentistclinicc.PL\\HastaGirisPL.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-24T03:53:44.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HastaGirisDAL.cs",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.DAL\\HastaGirisDAL.cs",
+              "RelativeDocumentMoniker": "Dentistclinicc.DAL\\HastaGirisDAL.cs",
+              "ToolTip": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.DAL\\HastaGirisDAL.cs",
+              "RelativeToolTip": "Dentistclinicc.DAL\\HastaGirisDAL.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:53:44.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HastaDAL.cs",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.DAL\\HastaDAL.cs",
+              "RelativeDocumentMoniker": "Dentistclinicc.DAL\\HastaDAL.cs",
+              "ToolTip": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.DAL\\HastaDAL.cs",
+              "RelativeToolTip": "Dentistclinicc.DAL\\HastaDAL.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:53:44.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HastaAnaSayfaDAL.cs",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.DAL\\HastaAnaSayfaDAL.cs",
+              "RelativeDocumentMoniker": "Dentistclinicc.DAL\\HastaAnaSayfaDAL.cs",
+              "ToolTip": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.DAL\\HastaAnaSayfaDAL.cs",
+              "RelativeToolTip": "Dentistclinicc.DAL\\HastaAnaSayfaDAL.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:53:44.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HastaPL.cs [Design]",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.PL\\HastaPL.cs",
+              "RelativeDocumentMoniker": "Dentistclinicc.PL\\HastaPL.cs",
+              "ToolTip": "C:\\Users\\onerp\\OneDrive\\Masa\u00FCst\u00FC\\dentistclinic\\Dentistclinic\\Dentistclinicc.PL\\HastaPL.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-24T03:53:44.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DentalClinicDataSet1.xsd",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.DAL\\DentalClinicDataSet1.xsd",
+              "RelativeDocumentMoniker": "Dentistclinicc.DAL\\DentalClinicDataSet1.xsd",
+              "ToolTip": "D:\\dentistclinic\\Dentistclinic\\Dentistclinicc.DAL\\DentalClinicDataSet1.xsd",
+              "RelativeToolTip": "Dentistclinicc.DAL\\DentalClinicDataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000835|",
+              "WhenOpened": "2024-12-24T03:53:44.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RandevuAl.cs",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinic.Entity\\RandevuAl.cs",
+              "RelativeDocumentMoniker": "Dentistclinic.Entity\\RandevuAl.cs",
+              "ToolTip": "D:\\dentistclinic\\Dentistclinic\\Dentistclinic.Entity\\RandevuAl.cs",
+              "RelativeToolTip": "Dentistclinic.Entity\\RandevuAl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:53:44.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Hasta.cs",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinic.Entity\\Hasta.cs",
+              "RelativeDocumentMoniker": "Dentistclinic.Entity\\Hasta.cs",
+              "ToolTip": "D:\\dentistclinic\\Dentistclinic\\Dentistclinic.Entity\\Hasta.cs",
+              "RelativeToolTip": "Dentistclinic.Entity\\Hasta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:53:44.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HastaGiris.cs",
+              "DocumentMoniker": "D:\\dentistclinic\\Dentistclinic\\Dentistclinic.Entity\\HastaGiris.cs",
+              "RelativeDocumentMoniker": "Dentistclinic.Entity\\HastaGiris.cs",
+              "ToolTip": "D:\\dentistclinic\\Dentistclinic\\Dentistclinic.Entity\\HastaGiris.cs",
+              "RelativeToolTip": "Dentistclinic.Entity\\HastaGiris.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:53:44.145Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\onerp\OneDrive\Masaüstü\dentistclinic\Dentistclinic\Dentistclinicc.DAL\bin\x64\Release\Dentistclinicc.DAL.dll.config
+C:\Users\onerp\OneDrive\Masaüstü\dentistclinic\Dentistclinic\Dentistclinicc.DAL\bin\x64\Release\Dentistclinicc.DAL.dll
+C:\Users\onerp\OneDrive\Masaüstü\dentistclinic\Dentistclinic\Dentistclinicc.DAL\bin\x64\Release\Dentistclinicc.DAL.pdb
+C:\Users\onerp\OneDrive\Masaüstü\dentistclinic\Dentistclinic\Dentistclinicc.DAL\bin\x64\Release\Dentistclinic.Entity.dll
+C:\Users\onerp\OneDrive\Masaüstü\dentistclinic\Dentistclinic\Dentistclinicc.DAL\bin\x64\Release\Dentistclinic.Entity.pdb
+C:\Users\onerp\OneDrive\Masaüstü\dentistclinic\Dentistclinic\Dentistclinicc.DAL\obj\x64\Release\Dentistclinicc.DAL.csproj.AssemblyReference.cache
+C:\Users\onerp\OneDrive\Masaüstü\dentistclinic\Dentistclinic\Dentistclinicc.DAL\obj\x64\Release\Dentistclinicc.DAL.csproj.CoreCompileInputs.cache
+C:\Users\onerp\OneDrive\Masaüstü\dentistclinic\Dentistclinic\Dentistclinicc.DAL\obj\x64\Release\Dentistclinicc.DAL.csproj.CopyComplete
+C:\Users\onerp\OneDrive\Masaüstü\dentistclinic\Dentistclinic\Dentistclinicc.DAL\obj\x64\Release\Dentistclinicc.DAL.dll
+C:\Users\onerp\OneDrive\Masaüstü\dentistclinic\Dentistclinic\Dentistclinicc.DAL\obj\x64\Release\Dentistclinicc.DAL.pdb
